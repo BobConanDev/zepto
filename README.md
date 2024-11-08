@@ -162,7 +162,7 @@ Zepto modules are individual files in the "src/" directory.
   <tr>
     <th><a href="src/stack.js#files">stack</a></th>
     <td></td>
-    <td>Provides <code>andSelf</code> &amp; <code>end()</code> chaining methods</td>
+    <td>Provides <code>and self</code> &amp; <code>end()</code> chaining methods</td>
   </tr>
   <tr>
     <th><a href="src/ios3.js#files">ios3</a></th>
